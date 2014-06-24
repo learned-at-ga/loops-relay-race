@@ -6,4 +6,4 @@ One student from each team of 6 should volunteer their laptop for this exercise,
 
 Solve a problem, then pass the laptop to your teammate! Everyone can help, but one person at a time should drive, and each person on the team should answer one problem :) 
 
-Note: the problems increase in difficulty!
+No peeking -- this exercise is meant to be completed without the assistance of Google, Stack Overflow, or other resources!
